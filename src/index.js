@@ -1,1 +1,2 @@
-console.log('start')
+const $ = require('jquery');
+$('#main').html('Here we go!');
